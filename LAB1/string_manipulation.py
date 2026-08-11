@@ -1,0 +1,6 @@
+f_n=input("enter your name: ")
+print(f_n)
+print(f_n.upper())
+print(f_n.lower())
+print("length:",len(f_n))
+print("reversed string:",f_n[::-1])

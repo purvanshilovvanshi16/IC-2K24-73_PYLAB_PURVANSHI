@@ -1,0 +1,7 @@
+name=input("enter the name: ")
+print(name)
+Age=input("enter the age: ")
+print(Age)
+city=input("enter the name of city: ")
+print(city)
+print(f"user name is {name} ,he/she is {Age} year old lives in {city}")
